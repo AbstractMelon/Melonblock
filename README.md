@@ -56,7 +56,7 @@ Hope this helps!
 
 ## Guiding Principles
 
-Thorium is based on years of experience building starship simulator controls for
+Melonblock is based on years of experience building starship simulator controls for
 Space Edventures centers in Utah. This experience drives a number of guiding
 principles which should underscore all feature development in the project:
 
