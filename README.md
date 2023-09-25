@@ -17,7 +17,7 @@ sure what it is or how to work with it? Guides are in the
 ## What is Melonblock?
 
 melonblock is a website made to show how you can unblock chromebooks. It also shows that no matter how hard you try, there will always be ways to get around
-- **About**: Thorium prioritizes storytelling and narrative over action and
+- **About**: Melonblock prioritizes storytelling and narrative over action and
   spectacle.
 - **Use**: DO NOT USE IN ANY PUBLIC SITUATION. FOR EDUCATION ONLY
 - **Info**: Info is found from the creator, Abstractmelon
@@ -44,7 +44,7 @@ and will continue to:
 Fortunately, you can get help from the excellent people on
 [Melon's Discord Server](https://discord.gg/UvxTQZz).
 
-If you need better support for your Thorium simulator,
+If you need better support for your unblocking,
 [Melon](https://github.com/alexanderson1993) is happy to contract with you to do
 so. Reach out via Discord to start the process.
 
